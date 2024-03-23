@@ -23,7 +23,7 @@
 
 #### Now everything is ready and you can write new commands!
 ## Information
-
+mdsobujz 
 > **One: you can update qiq**
 ###### qiq update command: qiq-update
 
